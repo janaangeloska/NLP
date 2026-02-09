@@ -88,7 +88,7 @@ python -c "import nltk; nltk.download('punkt_tab')"
 - **Causal LMs** - Generative language models with quantization
 - **RAG Systems** - Retrieval-augmented generation with FAISS vector search
 
-- ## License
+## License
 
 This project is open source and available for educational purposes.
 
