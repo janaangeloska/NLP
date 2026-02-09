@@ -1,36 +1,3 @@
-
-# Natural Language Processing
-
-A collection of NLP implementations and experiments during my university course, covering fundamental and advanced techniques in natural language processing.
-
-## Overview
-
-This repository contains practical implementations of various NLP techniques and algorithms, exploring different approaches to text processing, analysis, and machine learning applications in natural language understanding.
-
-## Technologies Used
-
-- **Python** - Primary programming language
-- **Jupyter Notebooks** - Interactive development and experimentation
-- **NLP & Text Processing**:
-  - NLTK - Tokenization and text preprocessing
-  - Gensim - Word2Vec embeddings
-  - Sentence Transformers - Semantic embeddings
-  - Hugging Face Transformers - Pre-trained models (RoBERTa, DistilBERT, T5, Causal LMs)
-- **Deep Learning Frameworks**:
-  - PyTorch - Neural network implementation and training
-  - TensorFlow/Keras - LSTM and sequential models
-- **Machine Learning**:
-  - Scikit-learn - Model evaluation, preprocessing, train-test splits
-  - Evaluate - Model metrics and evaluation
-- **Vector Search & Retrieval**:
-  - FAISS - Efficient similarity search and dense vector indexing
-- **Data Science**:
-  - Pandas & NumPy - Data manipulation and analysis
-  - Matplotlib - Visualization
-- **Advanced Techniques**:
-  - BitsAndBytes - Model quantization for efficient inference
-  - TSNE - Dimensionality reduction for embeddings visualization
- 
 # Natural Language Processing
 
 A collection of NLP implementations and experiments covering fundamental and advanced techniques in natural language processing.
